@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laraveller
-- 👀 I’m interested in Laravel, Livewire and vuejs olso and python
+- 👀 I’m interested in Laravel, Livewire and vuejs
 - 🌱 I’m currently learning all new staff react and django
 - 💞️ I’m looking to collaborate on laravel and vuejs community
 - 📫 How to reach me 
